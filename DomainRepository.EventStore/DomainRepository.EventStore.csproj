@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="DomainBase" Version="1.0.1" />
+    <PackageReference Include="EventStore.ClientAPI.NetCore" Version="4.1.0.23" />
+  </ItemGroup>
+</Project>
