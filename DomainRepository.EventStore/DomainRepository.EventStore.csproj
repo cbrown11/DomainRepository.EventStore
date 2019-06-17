@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Description>Domain Repository for Greg Young Eventstore</Description>
+    <Copyright>Copyright ©2019 BlueGemstone Ltd</Copyright>
+    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Domain Event Repository</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <RepositoryUrl>https://github.com/cbrown11/DomainRepository.EventStore</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="DomainBase" Version="1.0.1" />
